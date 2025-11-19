@@ -2472,11 +2472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaskApi\\StudentApi.csproj",
+      "projectUniqueName": "D:\\BaiTapWebAPI-PersonalTaskManager\\TaskApi\\StudentApi.csproj",
       "projectName": "StudentApi",
-      "projectPath": "D:\\TaskApi\\StudentApi.csproj",
+      "projectPath": "D:\\BaiTapWebAPI-PersonalTaskManager\\TaskApi\\StudentApi.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\TaskApi\\obj\\",
+      "outputPath": "D:\\BaiTapWebAPI-PersonalTaskManager\\TaskApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
