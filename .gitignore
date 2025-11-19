@@ -1,6 +1,0 @@
-# Ignore .NET build files
-TaskApi/bin/
-TaskApi/obj/
-
-# Ignore Node modules
-task-client/node_modules/
